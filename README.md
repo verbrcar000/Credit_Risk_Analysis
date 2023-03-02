@@ -29,4 +29,4 @@ Balanced accuracy score: 0.93
 ![EasyEnsembleAdaBoost_Classification_Report](EasyEnsembleAdaBoostClassifier.png)
 
 ## Summary
-
+In summary, the Easy Ensemble AdaBoost Classifier model had the highest balanced accuracy score by the far. At first glance, this tells us that it is the most accurate model for predicting credit risk. 
