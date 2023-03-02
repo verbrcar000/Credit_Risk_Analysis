@@ -6,21 +6,27 @@ The purpose of this analysis was to predict credit risk using resampling models,
 ## Results
 ### Random Oversampling
 Balanced accuracy score: 0.67
+![Random_Oversampling_Classification_Report](RandomOversampling.png)
 
 ### SMOTE Oversampling
 Balanced accuracy score: 0.66
+![SMOTE_Oversampling_Classification_Report](SMOTEOversampling.png)
 
 ### Undersampling
 Balanced accuracy score: 0.57
+![Undersampling_Classification_Report](Undersampling.png)
 
 ### Combination (Over and Under) Sampling
 Balanced accuracy score: 0.64
+![Combination_Sampling_Classification_Report](CombinationSampling.png)
 
 ### Balanced Random Forest Classifier
 Balanced accuracy score: 0.78
+![BalancedRandomForest_Classification_Report](BalancedRandomForestClassifier.png)
 
 ### Easy Ensemble AdaBoost Classifier
 Balanced accuracy score: 0.93
+![EasyEnsembleAdaBoost_Classification_Report](EasyEnsembleAdaBoostClassifier.png)
 
 ## Summary
 
